@@ -22,9 +22,9 @@ Vì lẽ đó, người Mỹ đã chọn tháng 3 là tháng đọc sách trên 
 
 Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi, chia sẻ của những người đọc sách (được mệnh danh là Facebook dành cho người đọc sách) đã liệt kê 100 cuốn sách nhất định phải đọc một lần trong đời do người dùng bình chọn và xếp hạng.
 
-1. 🌟 To Kill a Mockingbird (Giết con chim nhại) – Harper Lee
-2. 🌘 Pride and Prejudice (Kiêu hãnh và định kiến) – Jane Austen
-3. 🌕 The Diary of Anne Frank (Nhật ký Anne Frank) – Anne Frank
+1. 🌘 To Kill a Mockingbird (Giết con chim nhại) – Harper Lee
+2. Pride and Prejudice (Kiêu hãnh và định kiến) – Jane Austen
+3. The Diary of Anne Frank (Nhật ký Anne Frank) – Anne Frank
 4. 1984 – George Orwell
 5. Harry Potter and the Sorcerer’s Stone (Harry Potter và Hòn đá phù thủy) – J.K. Rowling
 6. The Lord of the Rings (1-3) (Chúa tể của những chiếc nhẫn) – J.R.R. Tolkien
@@ -125,6 +125,6 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 
 Bùi Ly (Nguồn Goodreads)
 
-## List 2 from Amazon 
+## List 2 from Amazon
 
 [100 Books to read in a lifetime](https://www.amazon.com/l/ref=mh_rd_l?node=8192263011)
